@@ -1,0 +1,15 @@
+{
+  "timeZone": "Europe/London",
+  "dependencies": {
+    "enabledAdvancedServices": []
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "oauthScopes": [
+    "https://www.googleapis.com/auth/script.external_request",
+    "https://www.googleapis.com/auth/forms.currentonly",
+    "https://www.googleapis.com/auth/forms.body.readonly",
+    "https://www.googleapis.com/auth/script.container.ui",
+    "https://www.googleapis.com/auth/script.scriptapp"
+  ],
+  "runtimeVersion": "V8"
+}
